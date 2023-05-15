@@ -34,7 +34,7 @@ import pandas as pd
 
 api_id = 1219108
 api_hash = '6a62fccfd576a92a04e6f021bd5c8bf2'
-phone = "seu_número"
+phone = "5519994181649"
 session_name = 'scraper_online'
 
 client = TelegramClient(str(session_name), api_id, api_hash)
